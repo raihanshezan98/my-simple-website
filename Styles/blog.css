@@ -1,5 +1,7 @@
 div{
-    background-color: aqua;
+    background-color: cyan;
     padding: 10px;
+    margin-bottom: 10px;
+    border: 10px solid tomato;
 
 }
